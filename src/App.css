@@ -1,0 +1,10 @@
+.container{
+    display: grid;
+}
+.h1{
+    display: grid;
+    justify-content: center;
+}
+.preview{
+    width: 100px;
+}

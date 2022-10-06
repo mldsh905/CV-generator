@@ -1,0 +1,9 @@
+.grid{
+    display: grid;
+}
+.column{
+    grid-auto-flow: column;
+}
+.borderBottom{
+    border-bottom: solid 1px black;
+}
